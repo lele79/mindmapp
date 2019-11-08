@@ -8,15 +8,15 @@
 ============================================
 
 ##  Table of Contents
-- :hammer: [Install](#hammer-install)
-- :video_game: [Usage](#video_game-usage)
-- :chart_with_upwards_trend: [Development](#chart_with_upwards_trend-development)
-  - :scroll: [Rules](#scroll-rules)
+-  [Install](#hammer-install)
+-  [Usage](#video_game-usage)
+-  [Development](#chart_with_upwards_trend-development)
+  -  [Rules](#scroll-rules)
     - [Commits](#commits)
     - [Branches](#branches)
-- :page_facing_up: [License](#page_facing_up-license)
-- :telephone_receiver: [Contacts](#telephone_receiver-contacts)
-  - :boy: [Developers](#boy-developers)
+-  [License](#page_facing_up-license)
+-  [Contacts](#telephone_receiver-contacts)
+  -  [Developers](#boy-developers)
 
 
 ##  Install
