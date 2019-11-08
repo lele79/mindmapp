@@ -11,7 +11,7 @@
 -  [Install](#hammer-install)
 -  [Usage](#video_game-usage)
 -  [Development](#chart_with_upwards_trend-development)
-  -  [Rules](#scroll-rules)
+  - :scroll: [Rules](#scroll-rules)
     - [Commits](#commits)
     - [Branches](#branches)
 -  [License](#page_facing_up-license)
